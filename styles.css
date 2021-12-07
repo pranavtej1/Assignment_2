@@ -1,0 +1,139 @@
+body
+{
+    background-color:  #dce3eb;
+    font-family: 'poppins',sans-serif;
+}
+.outer_template
+{
+    width: 99%;
+    height: 690px;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-left: 0.5%;
+    background-color: #f9fafe;
+}
+.left-div
+{
+    margin-top: none;
+    margin-left: 10px;
+    width: 4%;
+    height: 97%;
+    position: relative;
+    top: 10px;
+}
+.mid-div{
+    width: 70%;
+    height:97%;
+    background-color:#2b48a4;
+    margin-left: 80px;  
+    border-radius: 10px;
+    position: relative;
+    top:-95.5%;
+
+}
+::placeholder
+{
+    color:#6A7EBF;
+}
+.right-div{
+ width: 21%;
+ height: 96.5%;
+ background-color: #3e8be7; 
+ position: relative;
+top: -1327px;
+left: 1160px;
+border-radius: 10px;
+}
+.input1{
+width: 200px;
+height: 20px;
+margin:50px 0 0 100px;
+background-color:#2b48a4;
+border-radius: 10px;
+border-style: none;
+font-size: 25px;
+outline: none;
+
+}
+.graph
+{
+width: 350px;
+height:200px;
+border-radius: 10px;
+margin-left: 10%;
+}
+.graph1
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    position: relative;
+    top: -280px;
+    left: 100px;
+}
+.position
+{
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    margin-left: 15%;
+}
+.position1
+{
+    border-radius: 10px;
+    width: 50x;
+    height: 50px;
+    margin-left: 5%;
+}
+.text1
+{
+    position: relative;
+    bottom: 10.5%;
+    left: 35%;
+    color:white ;
+}
+.text2
+{
+ position: relative;
+ left: 35%;
+ bottom: 13%;
+ color:#B7EEFF ;
+}
+.position2
+{
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+   position: relative;
+   left:15%;
+   bottom: 13%;
+}
+.text3
+{
+    position: relative;
+    position: relative;
+    left: 35%;
+    bottom: 26%;
+    color:#B7EEFF ;
+}
+.position3
+{
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    margin-left: 15%;
+    position: relative;
+    bottom: 26%;
+}
+.search1
+{
+    position: relative;
+    top: 1.8%;
+    right:26.5%;
+}
+.set-icon
+{
+    position: relative;
+    left:55%;
+    top: 10%;
+}
